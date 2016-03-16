@@ -12,7 +12,7 @@ I use the word "lesson" loosely; each file contains a number of links to article
 The most convenient way for me to see your work is if you create a Github account, upload your progress there, and send me a link to the repository. If you do not have a Github account, follow [this tutorial](https://guides.github.com/activities/hello-world/) to set it up and learn how the platform works.   
 
 ## Getting Started  
-Once you create your Github account and learn how to upload (push) work, click on the Introduction.md file above to learn some HTML and CSS basics.
+Once you create your Github account and learn how to upload (push) work, click on the Introduction.md file above to learn some HTML and CSS basics. You're also going to need a text editor to work on files. I suggest [Sublime](https://www.sublimetext.com/).
 
 ## What This Course Isn't  
 This course teaches web design, not web development. This means you will not learn JavaScript by following the lessons. Most websites contain a mix of HTML, CSS and JavaScript. HTML contains a website's information. CSS provides styling for that information, and a limited amount of interactivity. JavaScript provides much greater freedom of interactivity and functionality.   
