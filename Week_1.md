@@ -16,7 +16,7 @@ I've found that I learn the most about web design when I try to emulate the work
 1. Create a folder within your Week_1 folder called "Visual". 
 2. Research the web for different examples of menus used by eCommerce, social media, and personal websites.
 2. Pick two menu types that you would like to emulate, take screenshots, and create basic wireframes of them. Once you finish your wireframes, take photos of them and include those in your Visual folder along with the screenshots. Avoid fancy menus that use complicated animations or custom images--we'll get into those topics in later lessons.
-3. (Optional) To aid with the CSS you will create later, create medium-fidelity mockups of the menus of your choosing, identifying size, color, margins, text, etc.
+3. (Optional) To aid with the CSS you will write later, create medium-fidelity mockups of the menus of your choosing, identifying size, color, margins, text, etc.
 
 
 ### Web
