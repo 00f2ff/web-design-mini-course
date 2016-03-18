@@ -31,7 +31,7 @@ Now that you have developed an understanding of the design specifications of you
 I suggest creating a "Web" folder within Week_1 to help separate your visual and web design documents. It will be easiest if you create separate HTML and CSS files for each design.
 
 **Hyperlinks**  
-After you finish a design, you can make the menu interaction more realistic by including [hyperlinks](). These can simply direct to blank pages, or a modified version of your menu code (hint: think about changing HTML classes or ids to reflect the current page).
+After you finish a design, you can make the menu interaction more realistic by including [hyperlinks](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a). These can simply direct to blank pages, or a modified version of your menu code (hint: think about changing HTML classes or ids to reflect the current page).
 
 ### Submission
 
