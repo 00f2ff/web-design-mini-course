@@ -3,7 +3,7 @@
 Over the course of six weeks you will learn important HyperText Markup Language (HTML) and Cascading Style Sheets (CSS) concepts required to create attractive, functional and easy-to-use websites. It is intended for those who have some prior design skills, but the ability to draw straight lines is not required. Each week contains a new lesson, all of which are contained within markdown files (.md) in this Github repository. 
 
 ## Lessons  
-Each lesson has a topic and consists of visual and web design tasks. Examples of visual design tasks include researching the web for interesting topic examples, creating your own wireframes, and creating high-fidelity mockups.  
+Each lesson has a topic and consists of visual and web design tasks. Examples of visual design tasks include researching the web for interesting topic examples, creating your own wireframes, and creating medium- or high-fidelity mockups.  
 The web design tasks will require you to recreate the outcomes of the visual design tasks using HTML and CSS.
 
 I use the word "lesson" loosely; each file contains a number of links to articles, tutorials or documentation that will give you a relatively good understanding of the material, but the lesson file itself will not actually provide much instruction. Web design is a rapidly evolving field, and it's important to develop effective Googling skills (yes, Googling is a skill) to keep up with the web's current state and be prepared for its future. When you are unsure of how to solve a problem, you'll need to be able to search for the solution online.   
