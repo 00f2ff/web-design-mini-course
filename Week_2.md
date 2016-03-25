@@ -27,6 +27,8 @@ If you're interested in making your grids more realistic, you can include images
 
 Put all of your web design work into a folder called "Web" to separate it from "Visual".
 
+Tip: You may be tempted to use the CSS ```border``` property to mark your grid boxes. Just keep in mind that CSS borders are outset by default, which means they may throw off your alignment.
+
 ### Submission
 
 Send me the link to your Github repository when you are finished. I'll check out your design process and code, and give you feedback.
