@@ -109,4 +109,30 @@ If you've been following along, you'll see the HTML represented as white text on
 
 When selecting ids in CSS, precede the id name with a hash symbol. Now the word "Hello" will be underlined and "World," will have a strikethrough.  
 
+If you remember that CSS stands for Cascading Style Sheets, you might be wondering what "Cascading" means. One thing to understand about CSS is that child elements (those nested inside of another element) inherit properties and values from their parent. In effect, these properties and values "cascade" from parent to child. For example,
+
+```html
+<div class="parent">
+	<div class="child" id="first">
+	<div class="child" id="second">
+</div>
+```
+
+If we don't add any CSS to change the font size of these elements, each will inherit the default `font-size: 16px;` from the `<html>` element. If we were to write: 
+
+```css
+.parent {
+	font-size: 24px;
+}
+```
+
+What do you think the font size of either `div.child` would be? If you guessed `24px`, you are correct. If you want to reset the font size for the `div.child` elements to the default, you would need to add the following CSS:
+
+```css
+.child {
+	font-size: 16px;
+}
+```
+
+
 There are a number of other ways to select HTML elements with CSS, and hundreds of other properties you can use to style them. Once you feel comfortable with these basics, move onto Week 1's lesson.

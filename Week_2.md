@@ -21,7 +21,7 @@ You want visitors to your website to be able to click on those photos and have s
 
 After designing / finding some grids, it's time to figure out how to make them. Some of the skills you may have picked up last week will help, but there's still a lot to learn regarding positioning and sizing of boxes.
 
-Grids are commonly sized using px, %, [viewport units](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/), or some combination of the three. A nifty way to organize rows and columns uses something called [flexbox](http://www.paulund.co.uk/css-flexbox), but you can also rely on the units listed above, floats, and margins.
+Grids are commonly sized using px, %, [viewport units](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/), or some [combination](https://developer.mozilla.org/en-US/docs/Web/CSS/calc) of the three. A nifty way to organize rows and columns uses something called [flexbox](http://www.paulund.co.uk/css-flexbox), but you can also rely on the units listed above, floats, and margins.
 
 If you're interested in making your grids more realistic, you can include images using the ```<img>``` tag, and hyperlinks to other pages.
 
