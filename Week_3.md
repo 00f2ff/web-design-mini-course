@@ -112,3 +112,21 @@ Since 2 > 1, `div.inner#first` will now be stacked on top of `div.inner#second`.
 
 Alternatively, a negative `z-index` value will position an element behind another with a larger value. If you're interested in learning more about `z-index`, I suggest [this article](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/).
 
+### Getting Started
+
+1. Create a folder called "Week_3" and push it to a new repository on Github. You will put all of your design, HTML and CSS files in this folder. If you're tired of creating new repositories for each week's lesson, you can group them all into one folder with a subfolder for each week and just push that.
+2. Send me the link to the repository; if you want me to check your progress at any time, I'll be able to see what you've accomplished thus far.
+
+### Visual
+
+1. Create a folder within your Week_3 folder called "Visual". 
+2. Wireframe three examples of stacked content, take photos of your work, and add them to the Visual folder. 
+3. Search online for three more examples. If you came across any sticky menus or image-overlays while researching for Weeks 1 and 2, feel free to use those examples here (as long as you haven't actually written that code already). Take screenshots of your examples and add them to the Visual folder.
+
+### Web
+
+Now that you have some designs to work with, create a folder called "Web" that you'll put your HTML and CSS files into. Using the information provided above and any other Googling you do on your own, try to recreate your selected examples with HTML and CSS.
+
+### Submission
+
+Send me the link to your Github repository when you are finished. I'll check out your design process and code, and give you feedback.
